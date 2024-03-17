@@ -1,10 +1,5 @@
 <h1>DeepInsight: Navigating the realm of Deepfake detection</h1> 
-by Barnana Ganguly
-Abhijit Anil
-Amey Ghate
-Rathil Madihalli
-Sankalp Kulkarni
-Shrishty Mishra
+<h2>by Barnana Ganguly, Abhijit Anil, Amey Ghate, Rathil Madihalli, Sankalp Kulkarni, Shrishty Mishra</h2>
 
 
 ![Concerns GIF](Concerns.gif)
