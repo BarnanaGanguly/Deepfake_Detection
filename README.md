@@ -1,4 +1,5 @@
 <h1>Deepfake Detection Project</h1>
+
 ![Concerns GIF](Concerns.gif)
 
 <h2>Objective and Methodology</h2>
