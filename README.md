@@ -1,4 +1,11 @@
-<h1>Deepfake Detection Project</h1>
+<h1>DeepInsight: Navigating the realm of Deepfake detection</h1> 
+by Barnana Ganguly
+Abhijit Anil
+Amey Ghate
+Rathil Madihalli
+Sankalp Kulkarni
+Shrishty Mishra
+
 
 ![Concerns GIF](Concerns.gif)
 
